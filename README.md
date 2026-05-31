@@ -5,4 +5,4 @@ Solving one problem every day.
 ---
 
 Day 001 — Two Sum  
-Day 002 — Reverse a Linked List
+Day 002 — Express as Consecutive Number Sum
