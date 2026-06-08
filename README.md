@@ -18,3 +18,4 @@ Day 006 — Substring with Max Zero-One Diff
 
 Day 007 — Non- Attacking Black and white Knight
 
+Day 008 - delete nodes with greater on right
